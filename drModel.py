@@ -110,5 +110,8 @@ def DRModel(alpha, beta, max_rt_DR,max_da_DR,  H, scheduled_profiles, delta_flex
     delta_L_Flex_vals = {(s, k, t): delta_L_Flex[k, t, s].X for k in K for t in T for s in S}
     delta_L_Fixed_vals = {(s, l, t): delta_L_Fixed[l, t, s].X for l in L for t in T for s in S}
     
-    return L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals, drModel
+    objval =  drModel.ObjVal
+
+    
+    return L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals, drModel, objval
 

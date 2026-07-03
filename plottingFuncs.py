@@ -15,7 +15,7 @@ def get_subplot_grid(n_plots, max_cols=3):
     n_rows = int(np.ceil(n_plots / n_cols))
     return n_rows, n_cols
 
-def plotDRUsage(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals, p):
+def plotDRUsage(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals, p, objval):
     
     S = sorted(set(s for s, t in L_net_vals.keys()))
     T = sorted(set(t for s, t in L_net_vals.keys()))
@@ -171,14 +171,14 @@ def plotDRUsage(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals,
 
 
 
-    fig1.suptitle("DR Load Contributions by Scenario", fontsize=13)
+    fig1.suptitle(f"DR Load Contributions by Scenario, Objval:{round(objval, 2)}", fontsize=13)
     plt.tight_layout(rect=[0, 0.06, 1, 0.97])
     plt.show()
 
 
     
     
-def plotLoadprofiles(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals, p, load_scenarios, n_scenarios):
+def plotLoadprofiles(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals, p, load_scenarios, n_scenarios, objval):
     x     = np.arange(1, 25)
     width = 0.35
   
@@ -226,7 +226,7 @@ def plotLoadprofiles(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_
     handles, labels = axes2[0].get_legend_handles_labels()
     fig2.legend(handles, labels, loc='lower center', ncol=2,
                 bbox_to_anchor=(0.5, 0.0), fontsize=9)
-    fig2.suptitle("Base vs Net Load by Scenario", fontsize=13)
+    fig2.suptitle(f"Base vs Net Load by Scenario, Objval:{round(objval, 2)}", fontsize=13)
     plt.tight_layout(rect=[0, 0.06, 1, 0.97])
     plt.show()
     
