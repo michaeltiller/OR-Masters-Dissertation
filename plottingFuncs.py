@@ -15,13 +15,19 @@ def get_subplot_grid(n_plots, max_cols=3):
     n_rows = int(np.ceil(n_plots / n_cols))
     return n_rows, n_cols
 
-def plotDRUsage(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals, p, objval):
+def plotDRUsage(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals, p, objval, r_vals,pi_vals):
     
     S = sorted(set(s for s, t in L_net_vals.keys()))
     T = sorted(set(t for s, t in L_net_vals.keys()))
     J = sorted(set(j for j, t in delta_L_vals.keys()))
     K = sorted(set(k for s, k, t in delta_L_Flex_vals.keys()))
     L=  sorted(set(l for s, l, t in delta_L_Fixed_vals.keys()))
+    
+    
+    ramping = sum(p[s] * sum(r_vals[s, t] for t in T) for s in S)
+    peak = sum(p[s] * pi_vals[s] for s in S)
+    
+    
     
     n_scenarios = len(S)
     x     = np.arange(1, 25)
@@ -170,18 +176,18 @@ def plotDRUsage(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals,
 
 
 
-
-    fig1.suptitle(f"DR Load Contributions by Scenario, Objval:{round(objval, 2)}", fontsize=13)
+    fig1.suptitle(f"DR Load Contributions by Scenario, Objval:{round(objval, 2)}, Ramping:{round(ramping, 2)}, Peak: :{round(peak, 2)}", fontsize=13)
     plt.tight_layout(rect=[0, 0.06, 1, 0.97])
     plt.show()
 
 
     
     
-def plotLoadprofiles(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals, p, load_scenarios, n_scenarios, objval):
-    x     = np.arange(1, 25)
+def plotLoadprofiles(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_vals, p, load_scenarios, n_scenarios, objval, r_vals,pi_vals):
+   
+    
+    x  = np.arange(1, 25)
     width = 0.35
-  
   
     
     S = sorted(set(s for s, t in L_net_vals.keys()))
@@ -189,6 +195,10 @@ def plotLoadprofiles(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_
     J = sorted(set(j for j, t in delta_L_vals.keys()))
     K = sorted(set(k for s, k, t in delta_L_Flex_vals.keys()))
     
+    
+    ramping = sum(p[s] * sum(r_vals[s, t] for t in T) for s in S)
+    peak = sum(p[s] * pi_vals[s] for s in S)
+     
     n_scenarios = len(S)
 
     n_rows, n_cols = get_subplot_grid(n_scenarios)
@@ -226,7 +236,7 @@ def plotLoadprofiles(L_net_vals, delta_L_vals, delta_L_Flex_vals, delta_L_Fixed_
     handles, labels = axes2[0].get_legend_handles_labels()
     fig2.legend(handles, labels, loc='lower center', ncol=2,
                 bbox_to_anchor=(0.5, 0.0), fontsize=9)
-    fig2.suptitle(f"Base vs Net Load by Scenario, Objval:{round(objval, 2)}", fontsize=13)
+    fig2.suptitle(f"Base vs Net Load by Scenario, Objval:{round(objval, 2)}, Ramping:{round(ramping, 2)}, Peak: :{round(peak, 2)}", fontsize=13)
     plt.tight_layout(rect=[0, 0.06, 1, 0.97])
     plt.show()
     
