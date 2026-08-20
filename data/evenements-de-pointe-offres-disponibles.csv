@@ -1,0 +1,144 @@
+﻿AvailableOffers,Customer type,Description (fr),doc_fr,doc_eng,Start,End
+ENG_100H_2F_5J,affaires,"Signal pour les modalités GDP Engagement 100H, 2 fois/jr, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_80H_2F_7J,affaires,"Signal pour les modalités GDP Engagement 80H, 2 fois/jr, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_80H_1F_7J,affaires,"Signal pour les modalités GDP Engagement 80H, 1 fois/jr, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_80H_1F_5J,affaires,"Signal pour les modalités GDP Engagement 80H, 1 fois/jr, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_60H_2F_7J,affaires,"Signal pour les modalités GDP Engagement 60H, 2 fois/jr, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_60H_2F_5J,affaires,"Signal pour les modalités GDP Engagement 60H, 2 fois/jr, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_60H_1F_7J,affaires,"Signal pour les modalités GDP Engagement 60H, 1 fois/jr, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_60H_1F_5J,affaires,"Signal pour les modalités GDP Engagement 60H, 1 fois/jr, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_40H_2F_7J,affaires,"Signal pour les modalités GDP Engagement 40H, 2 fois/jr, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_40H_2F_5J,affaires,"Signal pour les modalités GDP Engagement 40H, 2 fois/jr, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_20H_2F_7J,affaires,"Signal pour les modalités GDP Engagement 20H, 2 fois/jr, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_20H_2F_5J,affaires,"Signal pour les modalités GDP Engagement 20H, 2 fois/jr, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+LAT_100H_5J,affaires,"Signal pour les modalités GDP Latitude : 100H, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+LAT_100H_7J,affaires,"Signal pour les modalités GDP Latitude : 100H, Lu-Ve, avec fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+LAT_Signal_FDS,affaires,Signal pour les modalités GDP Latitude avec fin de semaine. À utiliser EN PLUS du signal Latitude correspondant à vos modalités,https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+LAT_40H_7J,affaires,"Signal pour les modalités GDP Latitude 40H, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+LAT_80H_7J,affaires,"Signal pour les modalités GDP Latitude 80H, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+Crédit hivernal Affaires (CPC-G),affaires,Signal pour les modalités Crédit Hivernal pour la clientèle au tarif G,https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-credit-hivernal.html,https://www.hydroquebec.com/business/customer-space/rates/winter-credit-option.html,2026-12-01,2027-03-31
+CPC-D,residentielle,"Crédit pointe critique pour le tarif D.
+Il s’agit de l’option de crédit hivernal pour la clientèle résidentielle et agricole.",https://www.hydroquebec.com/residentiel/espace-clients/tarifs/option-credit-hivernal.html,https://www.hydroquebec.com/residential/customer-space/rates/winter-credit-option.html,2024-12-01,2025-03-31
+GDP-Affaires,affaires,"option Tarification pointe critique pour les tarifs DP, DM, G, G9,M, LG ou H.
+
+Il s’agit de l’option de gestion de la demande de puissance (GDP) pour la clientèle d’affaires",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option.html,2024-12-01,2025-03-31
+TPC-GPC,affaires,"Tarification pointe critique pour le tarif G.
+
+Il s’agit du tarif Flex G pour la clientèle d’affaires.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/tarif-flex-g.html,https://www.hydroquebec.com/business/customer-space/rates/rate-flex-g.html,2024-12-01,2025-03-31
+TPC-L-Centre-C2,affaires,Tarif pointe critique pour le tarif L destiné aux secteurs Centre (C2) Il s’agit de l'option d’électricité interruptible pour la clientèle d’affaires de grande puissance.,https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-interruptible-clientele-grande-puissance.html,https://www.hydroquebec.com/business/customer-space/rates/interruptible-electricity-options-medium-power-customers.html,2024-12-01,2025-03-31
+TPC-L-Sud-D2,affaires,Tarif pointe critique pour le tarif L destiné aux secteurs Sud (D2). Il s’agit de l'option d’électricité interruptible pour la clientèle d’affaires de grande puissance.,https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-interruptible-clientele-grande-puissance.html,https://www.hydroquebec.com/business/customer-space/rates/interruptible-electricity-options-medium-power-customers.html,2024-12-01,2025-03-31
+GDP-Affaires,affaires,"Option de crédit hivernal pour la clientèle au tarif DP, DM, G, G9, M, LG ou H.
+
+Il s’agit de l’option de gestion de la demande de puissance (GDP) pour la clientèle d’affaires, à l’exclusion de celle au tarif L.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option.html,2025-12-01,2026-03-31
+CPC-G,affaires,"Option de crédit hivernal pour la clientèle au tarif G
+
+Il s’agit de l'option de crédit hivernal pour la clientèle de petite puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-credit-hivernal.html,https://www.hydroquebec.com/business/customer-space/rates/winter-credit-option.html,2025-12-01,2026-03-31
+TPC-GPC,affaires,"Tarif Flex pour la clientèle au tarif G
+
+Il s’agit du tarif Flex G pour la la clientèle de petite puissance",https://www.hydroquebec.com/affaires/espace-clients/tarifs/tarif-flex-g.html,https://www.hydroquebec.com/business/customer-space/rates/rate-flex-g.html,2025-12-01,2026-03-31
+ENG01,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG02,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG05,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG07,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG11,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG16,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG17,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG18,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+Chaine de bloc,affaires,Signal pour les clients au tarif CB (Chaine de bloc),https://www.hydroquebec.com/affaires/espace-clients/tarifs/tarif-chaines-de-blocs.html,https://www.hydroquebec.com/business/customer-space/rates/rate-blockchains.html,2026-12-01,2027-03-31
+OEA,affaires,Signal pour les clients à l'option d’électricité additionnelle (OEA),"https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-additionnelle-clientele-moyenne-puissance.html
+ https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-additionnelle-clientele-grande-puissance.html","https://www.hydroquebec.com/business/customer-space/rates/additional-electricity-option-medium-power-customers.html
+https://www.hydroquebec.com/business/customer-space/rates/additional-electricity-option-large-power-customers.html",2026-12-01,2027-03-31
+ENG_100H_1F_7J,affaires,"Signal pour les modalités GDP Engagement 100H, 1 fois/jr, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_80H_2F_5J,affaires,"Signal pour les modalités GDP Engagement 80H, 2 fois/jr, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_40H_1F_7J,affaires,"Signal pour les modalités GDP Engagement 40H, 1 fois/jr, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_20H_1F_7J,affaires,"Signal pour les modalités GDP Engagement 20H, 1 fois/jr, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_20H_1F_5J,affaires,"Signal pour les modalités GDP Engagement 20H, 1 fois/jr, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+LAT_20H_7J,affaires,"Signal pour les modalités GDP Latitude 20H, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+LAT_40H_5J,affaires,"Signal pour les modalités GDP Latitude 40H, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+LAT_60H_5J,affaires,"Signal pour les modalités GDP Latitude 60H, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+LAT_60H_7J,affaires,"Signal pour les modalités GDP Latitude 60H, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+LAT_80H_5J,affaires,"Signal pour les modalités GDP Latitude 80H, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+Crédit hivernal Résidentiel (CPC-D),résidentielle,Signal pour les modalités Crédit Hivernal au tarif D (résidentiel et agricole),https://www.hydroquebec.com/residentiel/espace-clients/tarifs/option-credit-hivernal.html,https://www.hydroquebec.com/residential/customer-space/rates/winter-credit-option.html,2026-12-01,2027-03-31
+CPC-D,residentielle,"Crédit pointe critique pour le tarif D.
+Il s’agit de l’option de crédit hivernal pour la clientèle résidentielle et agricole.",https://www.hydroquebec.com/residentiel/espace-clients/tarifs/option-credit-hivernal.html,https://www.hydroquebec.com/residential/customer-space/rates/winter-credit-option.html,2025-12-01,2026-03-31
+ENG04,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG06,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG12,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+OEA,affaires,"option d’électricité additionnelle.
+
+Il s’agit de l’option d’électricité additionnelle pour la clientèle de moyenne puissance pour les tarifs M et G9 et de l’option d’électricité additionnelle pour la clientèle de grande puissance pour les tarifs L et LG.","https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-additionnelle-clientele-moyenne-puissance.html
+ https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-additionnelle-clientele-grande-puissance.html","https://www.hydroquebec.com/business/customer-space/rates/additional-electricity-option-medium-power-customers.html
+https://www.hydroquebec.com/business/customer-space/rates/additional-electricity-option-large-power-customers.html",2025-12-01,2026-03-31
+TPC-DPC,residentielle,"Tarification pointe critique pour le tarif D.
+
+Il s’agit du tarif Flex D pour la clientèle résidentielle et agricole.",https://www.hydroquebec.com/residentiel/espace-clients/tarifs/tarif-flex-d.html,https://www.hydroquebec.com/residential/customer-space/rates/rate-flex-d.html,2024-12-01,2025-03-31
+TPC-M,affaires,"Tarif pointe critique pour les tarifs M, LG et G9.
+
+Il s’agit de l'option d’électricité interruptible pour la clientèle d’affaires de moyenne puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-interruptible-clientele-moyenne-puissance.html,https://www.hydroquebec.com/business/customer-space/rates/interruptible-electricity-options-medium-power-customers.html,2024-12-01,2025-03-31
+TPC-L-Sud-D1,affaires,Tarif pointe critique pour le tarif L destiné aux secteurs Sud (D1). Il s’agit de l'option d’électricité interruptible pour la clientèle d’affaires de grande puissance.,https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-interruptible-clientele-grande-puissance.html,https://www.hydroquebec.com/business/customer-space/rates/interruptible-electricity-options-medium-power-customers.html,2024-12-01,2025-03-31
+OEA,affaires,Il s’agit de l’option d’électricité additionnelle pour la clientèle de moyenne puissance pour les tarifs M et G9 et de l’option d’électricité additionnelle pour la clientèle de grande puissance pour les tarifs L et LG.,"https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-additionnelle-clientele-moyenne-puissance.html
+ https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-additionnelle-clientele-grande-puissance.html","https://www.hydroquebec.com/business/customer-space/rates/additional-electricity-option-medium-power-customers.html
+https://www.hydroquebec.com/business/customer-space/rates/additional-electricity-option-large-power-customers.html",2024-12-01,2025-03-31
+OEA Serres,affaires,Signal pour les clients à l'option d’électricité additionnelle (OEA) faisant la culture de végétaux en serre,https://www.hydroquebec.com/residentiel/espace-clients/tarifs/option-electricite-additionnelle-vegetaux.html,https://www.hydroquebec.com/residential/customer-space/rates/additional-electricity-option-crops.html,2026-12-01,2027-03-31
+ENG_100H_2F_7J,affaires,"Signal pour les modalités GDP Engagement 100H, 2 fois/jr, Lu-Ve, avec Fin de semaine",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_100H_1F_5J,affaires,"Signal pour les modalités GDP Engagement 100H, 1 fois/jr, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+ENG_40H_1F_5J,affaires,"Signal pour les modalités GDP Engagement 40H, 1 fois/jr, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-engagement.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-commitment.html,2026-12-01,2027-03-31
+LAT_20H_5J,affaires,"Signal pour les modalités GDP Latitude 20H, Lu-Ve",https://www.hydroquebec.com/affaires/economies-energie-entreprise/offres-gestion-puissance/gdp-latitude.html,https://www.hydroquebec.com/business/energy-savings-business/manage-power-demand-offers/dr-leeway.html,2026-12-01,2027-03-31
+Flex Affaires (TPC-GPC),affaires,Signal pour les modalités Tarif Flex au tarif G,https://www.hydroquebec.com/affaires/espace-clients/tarifs/tarif-flex-g.html,https://www.hydroquebec.com/business/customer-space/rates/rate-flex-g.html,2026-12-01,2027-03-31
+Flex Résidentiel (TPC-DPC),résidentielle,Signal pour les modalités Tarif Flex au tarif D (résidentiel et agricole),https://www.hydroquebec.com/residentiel/espace-clients/tarifs/tarif-flex-d.html,https://www.hydroquebec.com/residential/customer-space/rates/rate-flex-d.html,2026-12-01,2027-03-31
+TPC-DPC,residentielle,"Tarif Flex pour la clientèle au tarif D
+
+Il s’agit du tarif Flex D pour la clientèle résidentielle et agricole.",https://www.hydroquebec.com/residentiel/espace-clients/tarifs/tarif-flex-d.html,https://www.hydroquebec.com/residential/customer-space/rates/rate-flex-d.html,2025-12-01,2026-03-31
+ENG03,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG08,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG09,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG10,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG13,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG14,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG15,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG19,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+ENG20,affaires,"Option de crédit hivernal pour la clientèle au tarif L ou LG
+
+Il s’agit de l'option de gestion de la demande de puissance – Engagement pour la clientèle de grande puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-gestion-demande-puissance-engagement.html,https://www.hydroquebec.com/business/customer-space/rates/demand-response-option-power-commitment.html,2025-12-01,2026-03-31
+CPC-G,affaires,"Crédit pointe critique pour le tarif G.
+
+Il s’agit de 1'option de crédit hivernal pour la clientèle d’affaires de petite puissance.",https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-credit-hivernal.html,https://www.hydroquebec.com/business/customer-space/rates/winter-credit-option.html,2024-12-01,2025-03-31
+TPC-L-Centre-U,affaires,Tarif pointe critique pour le tarif L destiné aux secteurs Centre (U) Il s’agit de l'option d’électricité interruptible pour la clientèle d’affaires de grande puissance.,https://www.hydroquebec.com/affaires/espace-clients/tarifs/option-electricite-interruptible-clientele-grande-puissance.html,https://www.hydroquebec.com/business/customer-space/rates/interruptible-electricity-options-medium-power-customers.html,2024-12-01,2025-03-31
